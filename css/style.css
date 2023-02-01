@@ -1,0 +1,22 @@
+body{
+    font: 20px Arial, sams-serif; /* patroniza a fonte da letra*/
+}
+.navbar{
+    background-color: darkolivegreen; /* cor da barra de menu*/
+}
+
+.quem-somos{
+    background-color: cadetblue;/*cor abaixo do menu*/
+    color:white; /* muda a cor do texto dentro de quem somos*/
+} 
+.margin{
+   padding-bottom: 50px;
+   padding-top: 10px;
+}
+.parceiros{
+    background-color:rgb(50, 50, 238) ;/* cor do fundo*/
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+}
